@@ -6,7 +6,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [APIs Used](#apis-used)
-- [Developers](#developers)
 
 ## Description
 
@@ -56,12 +55,4 @@ This project uses following APIs:
 2. [Whipsir API](https://developers.whispir.com/bc98e4074ef97-about-the-whispir-platform-api) - Used for speech to text conversion.
 3. [HumeAI API](https://docs.hume.ai/) - Used for emotion analysis.
 
-## Developers
-
-This project was made with love by the following developers:
-
-1. [Manoj Elango](https://github.com/ManojBaasha) 
-2. [Yash Inani](https://github.com/yinani24) 
-3. [Vinh Pham](https://github.com/VinnyXP) 
-4. [Keena Vasiloff](https://github.com/TheGhostCoder0) 
 
